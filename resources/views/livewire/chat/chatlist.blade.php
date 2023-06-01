@@ -1,3 +1,9 @@
 <div>
-    {{-- The best athlete wants his opponent at his best. --}}
+    <div class="chatlist_header">
+
+    </div>
+
+    <div class="chatlist_body">
+        
+    </div>
 </div>
