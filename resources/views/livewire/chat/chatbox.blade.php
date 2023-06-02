@@ -11,15 +11,26 @@
         </div>
         <div class="info">
             <div class="info_item"><i class="bi bi-telephone-fill"></i></div>
-            <div class="info_item"><i class="bi bi-image"></i></div>
+            <div class="info_item"><i class="bi bi-camera-video-fill"></i></div>
             <div class="info_item"><i class="bi bi-info-circle"></i></div>
         </div>
     </div>
 
     <div class="chatbox_body">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, dolore. Explicabo commodi incidunt adipisci labore cupiditate hic rerum, fuga consequatur quidem optio. Illo, quod ratione eveniet aut ipsum similique dicta.
-
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, voluptatibus nisi sint quia beatae totam expedita est aliquid? Nemo odio tempore impedit numquam. Quia ipsam fugiat sed ipsa nemo, quidem enim laborum? Ducimus totam, non asperiores officiis iusto dolore quae fugit quia sint dolorum cumque nulla expedita omnis at odit. Enim, voluptatum? Sapiente soluta vel eligendi assumenda nostrum, ratione laudantium quis similique vero cum nam ducimus recusandae fuga numquam voluptatem delectus. Ex delectus quas fuga veniam doloremque quia aperiam ducimus vitae sint iure voluptatum doloribus sed fugit sunt, id nemo, voluptatibus rerum. Non ullam quidem voluptate omnis nam blanditiis consequuntur!
+        <div class="msg_body msg_body_receiver">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, officiis. Reiciendis deleniti possimus consequuntur officiis repellat maxime amet laborum beatae labore id dolores impedit, deserunt recusandae necessitatibus natus. Maiores, animi.
+            <div class="msg_body_footer">
+                <div class="date">3 Days ago</div>
+                <div class="read"><i class="bi bi-check"></i></div>
+            </div>
+        </div>
+        <div class="msg_body msg_body_me">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, officiis. Reiciendis deleniti possimus consequuntur officiis repellat maxime amet laborum beatae labore id dolores impedit, deserunt recusandae necessitatibus natus. Maiores, animi.
+            <div class="msg_body_footer">
+                <div class="date">3 Days ago</div>
+                <div class="read"><i class="bi bi-check"></i></div>
+            </div>
+        </div>
     </div>
 
     
